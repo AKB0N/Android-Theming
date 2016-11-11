@@ -1225,7 +1225,7 @@
     <item component="ComponentInfo{com.gto.zero.zboost/com.gto.zero.zboost.shortcut.ShortcutBoostActivity}" drawable="___go_memory_boost"/>
 
     <!-- Go Speed Power Boost -->
-    <item component="ComponentInfo{com.gto.zero.zboost/com.gto.zer.zboost.shortcut.ShortcutPowerBoostActivity}" drawable="___go_power_boost"/>
+    <item component="ComponentInfo{com.gto.zero.zboost/com.gto.zero.zboost.shortcut.ShortcutPowerBoostActivity}" drawable="___go_power_boost"/>
 
     <!-- Cortana Shortcut -->
     <item component="ComponentInfo{com.microsoft.cortana/com.microsoft.bing.dss.widget.CortanaWidgetActivity" drawable="cortana_shortcut"/>
