@@ -70,7 +70,7 @@
     <item component="ComponentInfo{com.contextlogic.geek/com.contextlogic.wish.activity.browse.BrowseActivity}" drawable="geek"/>
 
     <!-- Glass Base & Glass -->
-    <item component="ComponentInfo{com.technologx.glass.base/com.afollestad.polar.ui.MainActivity}" drawable="glasslite"/>
+    <item component="ComponentInfo{com.technologx.glass.base/com.afollestad.polar.ui.MainActivity}" drawable="glass_lite"/>
 
     <item component="ComponentInfo{com.technologx.glass/com.technologx.glass.HomeActivity}" drawable="glass"/>
 
@@ -354,10 +354,10 @@
     <!-- Go Keyboard and Go Keyboard Pro  -->
     <item
         component="ComponentInfo{com.jb.lab.gokeyboard/com.jb.gokeyboard.MainActivity}"
-        drawable="gokeyboard" />
+        drawable="___go_keyboard" />
     <item
         component="ComponentInfo{com.jb.gokeyboardpro/com.jb.gokeyboard.MainActivity}"
-        drawable="gokeyboard" />
+        drawable="___go_keyboard" />
 
     <!-- iHeartRadio and iHeartRadio Auto -->
     <item
@@ -495,7 +495,7 @@
     <!-- GO Speed -->
     <item
         component="ComponentInfo{com.gto.zero.zboost/com.gto.zero.zboost.activity.MainActivity}"
-        drawable="gospeed" />
+        drawable="___go_speed" />
 
     <!-- Calendar -->
     <item
@@ -910,7 +910,7 @@
     <item component="ComponentInfo{ru.xorrisont.simplymaterial/ru.xorrisont.simplymaterial.activities.StartActivity}" drawable="willx"/>
 
     <!-- GitHub -->
-    <item component="ComponentInfo{com.github.client/com.github.mobile.ui.user.HomeActivity}" drawable="github" />
+    <item component="ComponentInfo{com.github.client/com.github.mobile.ui.user.HomeActivity}" drawable="git__hub" />
 
     <!-- Colors -->
     <item component="ComponentInfo{com.technologx.colors/com.technologx.colors.HomeActivity}" drawable="colors" />
@@ -1051,13 +1051,13 @@
     <item component="ComponentInfo{com.techtalk.mschussler/com.appyet.activity.MainActivity}" drawable="geek__bytes"/>
 
     <!-- GO Launcher Z -->
-    <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="go_launcher_z"/>
+    <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="___go_launcher_z"/>
 
     <!-- GO Weather EX -->
-    <item component="ComponentInfo{com.gau.go.launcherex.gowidget.weatherwidget/com.gau.go.launcherex.gowidget.framework.GoWidgetActivity}" drawable="go_weather_ex"/>
+    <item component="ComponentInfo{com.gau.go.launcherex.gowidget.weatherwidget/com.gau.go.launcherex.gowidget.framework.GoWidgetActivity}" drawable="___go_weather_ex"/>
 
     <!-- GOLauncherEX Prime -->
-    <item component="ComponentInfo{com.gau.go.launcherex.key/com.gau.go.launcherex.key.GuideMainActivity}" drawable="golauncherex_prime"/>
+    <item component="ComponentInfo{com.gau.go.launcherex.key/com.gau.go.launcherex.key.GuideMainActivity}" drawable="___go_launcher_ex_prime"/>
 
     <!-- HD Widgets -->
     <item component="ComponentInfo{cloudtv.hdwidgets/cloudtv.hdwidgets.activities.MainActivity}" drawable="hd_widgets"/>
@@ -1220,6 +1220,15 @@
 
     <!-- Lookout Security & Antivirus -->
     <item component="ComponentInfo{com.lookout.gadgetguardian/com.lookout.ui.LoadDispatch}" drawable="lookout_security_and_antivirus"/>
+
+    <!-- Go Speed Memory Boost -->
+    <item component="ComponentInfo{com.gto.zero.zboost/com.gto.zero.zboost.shortcut.ShortcutBoostActivity}" drawable="___go_memory_boost"/>
+
+    <!-- Go Speed Power Boost -->
+    <item component="ComponentInfo{com.gto.zero.zboost/com.gto.zer.zboost.shortcut.ShortcutPowerBoostActivity}" drawable="___go_power_boost"/>
+
+    <!-- Cortana Shortcut -->
+    <item component="ComponentInfo{com.microsoft.cortana/com.microsoft.bing.dss.widget.CortanaWidgetActivity" drawable="cortana_shortcut"/>
 
 
 </resources>
