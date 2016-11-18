@@ -75,16 +75,16 @@
     <item component="ComponentInfo{com.technologx.glass/com.technologx.glass.HomeActivity}" drawable="glass"/>
 
     <!-- Google Settings -->
-    <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="googlesettings"/>
+    <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="google_settings"/>
 
     <!-- Groups -->
     <item component="ComponentInfo{com.facebook.groups/com.facebook.groups.treehouse.GroupsActivity}" drawable="facebook_groups"/>
 
     <!-- Kum & Go -->
-    <item component="ComponentInfo{com.kumandgo.rewards/com.mobiquityinc.kumandgo.ui.activity.LauncherActivity}" drawable="kumngo"/>
+    <item component="ComponentInfo{com.kumandgo.rewards/com.mobiquityinc.kumandgo.ui.activity.LauncherActivity}" drawable="kum_and___go"/>
 
     <!-- LG Backup -->
-    <item component="ComponentInfo{com.lge.bnr.launcher/com.lge.bnr.launcher.BNRLauncherActivity}" drawable="lgbackup"/>
+    <item component="ComponentInfo{com.lge.bnr.launcher/com.lge.bnr.launcher.BNRLauncherActivity}" drawable="___lg_backup"/>
 
     <!-- Maps -->
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps"/>
@@ -108,13 +108,13 @@
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone"/>
 
     <!-- Play Books -->
-    <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="googleplaybooks"/>
+    <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books"/>
 
     <!-- Play Games -->
-    <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="googleplaygames"/>
+    <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="google_play_games"/>
 
     <!-- Play Store -->
-    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="googleplay"/>
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store"/>
 
     <!-- QuickMemo+ -->
     <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}" drawable="quickmemoplus"/>
@@ -156,7 +156,7 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
 
     <!-- YP -->
-    <item component="ComponentInfo{com.yellowpages.android.ypmobile/com.yellowpages.android.ypmobile.YPM}" drawable="ypmobile"/>
+    <item component="ComponentInfo{com.yellowpages.android.ypmobile/com.yellowpages.android.ypmobile.YPM}" drawable="yellow_pages_mobile"/>
 
     <!-- Zedge -->
     <item component="ComponentInfo{net.zedge.android/net.zedge.android.Main}" drawable="zedge"/>
@@ -248,17 +248,17 @@
         component="ComponentInfo{com.facebook.moments/com.facebook.moments.MomentsStartActivity}"
         drawable="facebook_moments" />
 
-    <!-- Chrome -->
+    <!-- Google Chrome -->
     <item
         component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
         drawable="google_chrome" />
 
-    <!-- Docs -->
+    <!-- Google Docs -->
     <item
         component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
-        drawable="googledocs" />
+        drawable="google_docs" />
 
-    <!-- Drive -->
+    <!-- Google Drive -->
     <item
         component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
         drawable="google_drive" />
@@ -276,45 +276,45 @@
     <!-- Google App -->
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
-        drawable="googleapp" />
+        drawable="google_app" />
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.GoogleSearch}"
-        drawable="googleapp" />
+        drawable="google_app" />
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchPreferences}"
-        drawable="googlevoicesearch" />
+        drawable="google_voice_search" />
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}"
-        drawable="googlevoicesearch" />
+        drawable="google_voice_search" />
 
     <!-- Google Play Movies & TV -->
     <item
         component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}"
-        drawable="googleplaymovies" />
+        drawable="google_play_movies" />
 
     <!-- Google Play Music -->
     <item
         component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}"
-        drawable="googleplaymusic" />
+        drawable="google_play_music" />
 
-    <!-- Google Play Newsstand -->
+    <!-- Google News & Weather -->
     <item
         component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}"
-        drawable="googlenewsstand" />
+        drawable="google_news_and_weather" />
 
     <!-- Google+ -->
     <item
         component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}"
-        drawable="googleplus" />
+        drawable="google_plus" />
     <item
         component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLauncherActivity}"
-        drawable="googlephotos" />
+        drawable="google_photos" />
     <item
         component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.trampoline.PhotosHomeLauncher}"
-        drawable="googlephotos" />
+        drawable="google_photos" />
     <item
         component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity}"
-        drawable="googlephotos" />
+        drawable="google_photos" />
 
     <!-- Hangouts -->
     <item
@@ -324,22 +324,22 @@
     <!-- KWGT Pro -->
     <item
         component="ComponentInfo{org.kustom.widget.pro/a.y.z.HZ}"
-        drawable="kustomwidget" />
+        drawable="___kwgt" />
 
     <!-- Kustom Widget -->
     <item
         component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}"
-        drawable="kustomwidget" />
+        drawable="___kwgt" />
 
     <!-- Sheets -->
     <item
         component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}"
-        drawable="googlesheets" />
+        drawable="google_sheets" />
 
     <!-- Slides -->
     <item
         component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}"
-        drawable="googleslides" />
+        drawable="google_slides" />
 
     <!-- Smart Contacts -->
     <item
@@ -349,7 +349,7 @@
     <!-- Go Security -->
     <item
         component="ComponentInfo{com.jb.security/com.jb.security.MainActivity}"
-        drawable="gosecurity" />
+        drawable="___go_security" />
 
     <!-- Go Keyboard and Go Keyboard Pro  -->
     <item
@@ -497,31 +497,31 @@
         component="ComponentInfo{com.gto.zero.zboost/com.gto.zero.zboost.activity.MainActivity}"
         drawable="___go_speed" />
 
-    <!-- Calendar -->
+    <!-- Google Calendar -->
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="googlecalendar" />
+        drawable="google_calendar" />
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}"
-        drawable="googlecalendar" />
+        drawable="google_calendar" />
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.ICalLauncher}"
-        drawable="googlecalendar" />
+        drawable="google_calendar" />
 
     <!-- ADW Extensions Pack -->
     <item
         component="ComponentInfo{org.adw.launcher.extensionspack/org.adw.launcher.extensionspack.MainActivity}"
-        drawable="__adw_extensions_pack_2" />
+        drawable="___adw_extensions_pack_2" />
 
     <!-- ADW Launcher -->
     <item
         component="ComponentInfo{org.adw.launcher/org.adw.launcher.LauncherActivity}"
-        drawable="__adw_launcher_2" />
+        drawable="___adw_launcher_2" />
 
     <!-- ADWNotifier2 -->
     <item
         component="ComponentInfo{org.adw.launcher.notifier2/org.adw.launcher.notifications.NotifierActivity}"
-        drawable="__adw_notifier_2" />
+        drawable="___adw_notifier_2" />
 
     <!-- ApplicationReader -->
     <item
@@ -590,7 +590,7 @@
     <item component="ComponentInfo{com.srowen.bs.android/com.srowen.bs.android.CaptureActivity}" drawable="barcode_scanner_plus+"/>
 
     <!-- BDO Personal -->
-    <item component="ComponentInfo{www.mobile.bdo.com.ph/www.mobile.bdo.com.ph.BDOUnibankIncV2}" drawable="__bdo_mobile_banking"/>
+    <item component="ComponentInfo{www.mobile.bdo.com.ph/www.mobile.bdo.com.ph.BDOUnibankIncV2}" drawable="___bdo_mobile_banking"/>
 
     <!-- Box -->
     <item component="ComponentInfo{com.box.android/com.box.android.activities.login.SplashScreenActivity}" drawable="box"/>
@@ -626,7 +626,7 @@
     <item component="ComponentInfo{com.dictionary.paid/com.dictionary.Splash}" drawable="dictionary"/>
 
     <!-- Dr.eye 譯典通 -->
-    <item component="ComponentInfo{com.inventec.dreye.dictnew/com.inventec.dreye.dictnew.LoadingActivity}" drawable="__dr_eye"/>
+    <item component="ComponentInfo{com.inventec.dreye.dictnew/com.inventec.dreye.dictnew.LoadingActivity}" drawable="dr_eye"/>
 
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="drop__box"/>
@@ -662,22 +662,22 @@
     <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="greenify"/>
 
     <!-- Hanping Pro -->
-    <item component="ComponentInfo{com.embermitre.hanping.app.pro/com.embermitre.dictroid.ui.SearchActivity}" drawable="hanpingpro"/>
+    <item component="ComponentInfo{com.embermitre.hanping.app.pro/com.embermitre.dictroid.ui.SearchActivity}" drawable="hanping_pro"/>
 
     <!-- In Touch -->
-    <item component="ComponentInfo{r2i.InTouch.Android/md513785a365efafc3c223d3dc52fbd2a60.MainActivity}" drawable="intouch"/>
+    <item component="ComponentInfo{r2i.InTouch.Android/md513785a365efafc3c223d3dc52fbd2a60.MainActivity}" drawable="in_touch"/>
 
     <!-- Internet -->
-    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="google_chrome"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="internet_galaxy_prime"/>
 
     <!-- Iride UI -->
     <item component="ComponentInfo{com.Fraom.IrideUI/com.Fraom.IrideUI.LicenseActivity}" drawable="irideui"/>
 
     <!-- iShredder™ 4 Professional -->
-    <item component="ComponentInfo{com.protectstar.ishredder.pro/com.protectstar.ishredder4.core.MainActivity}" drawable="ishredder"/>
+    <item component="ComponentInfo{com.protectstar.ishredder.pro/com.protectstar.ishredder4.core.MainActivity}" drawable="_ishredder_pro"/>
 
     <!-- KAIP Prime -->
-    <item component="ComponentInfo{com.ttop.kaip_prime/com.ttop.kaip_prime.ui.MainActivity}" drawable="kaipprime"/>
+    <item component="ComponentInfo{com.ttop.kaip_prime/com.ttop.kaip_prime.ui.MainActivity}" drawable="___kaip_prime"/>
 
     <!-- Learn Idioms -->
     <item component="ComponentInfo{com.learnidioms/com.learnidioms.MainActivity}" drawable="idioms"/>
@@ -686,19 +686,19 @@
     <item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line"/>
 
     <!-- LINE Bubble2 -->
-    <item component="ComponentInfo{com.linecorp.LGBB2/com.linecorp.LGBB2.LineSplashActivity}" drawable="linebubbles2"/>
+    <item component="ComponentInfo{com.linecorp.LGBB2/com.linecorp.LGBB2.LineSplashActivity}" drawable="line_bubbles_2"/>
 
     <!-- Link2SD -->
-    <item component="ComponentInfo{com.buak.Link2SD/com.buak.Link2SD.Link2SD}" drawable="link2sd"/>
+    <item component="ComponentInfo{com.buak.Link2SD/com.buak.Link2SD.Link2SD}" drawable="link2__sd"/>
 
     <!-- Lucky Patcher -->
-    <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.LOCK/com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original}" drawable="luckypatcher"/>
+    <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.LOCK/com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original}" drawable="lucky_patcher"/>
 
     <!-- Lux Dash -->
-    <item component="ComponentInfo{com.vito.lux/com.vito.lux.Dashboard}" drawable="luxdash"/>
+    <item component="ComponentInfo{com.vito.lux/com.vito.lux.Dashboard}" drawable="lux_dash"/>
 
     <!-- MAPS.ME -->
-    <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
+    <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.DownloadResourcesActivity}" drawable="___maps___me"/>
 
     <!-- Memo -->
     <item component="ComponentInfo{com.samsung.android.app.memo/com.samsung.android.app.memo.Main}" drawable="quickmemoplus"/>
@@ -710,10 +710,10 @@
     <item component="ComponentInfo{com.sec.android.app.music/com.samsung.musicplus.MusicMainActivity}" drawable="musicg"/>
 
     <!-- MX Player Pro -->
-    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player_pro"/>
+    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="___mx_player_pro"/>
 
     <!-- My Files -->
-    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="myfiles"/>
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="my__files"/>
 
     <!-- NYTimes -->
     <item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="nytimes"/>
@@ -833,7 +833,7 @@
     <item component="ComponentInfo{com.jb.zcamera/com.jb.zcamera.gallery.common.GalleryActivity}" drawable="zgallery"/>
 
     <!-- 成語詞典 -->
-    <item component="ComponentInfo{com.cenovo.chengyucidian/com.cenovo.chengyucidian.MainActivity}" drawable="idiomdictionary"/>
+    <item component="ComponentInfo{com.cenovo.chengyucidian/com.cenovo.chengyucidian.MainActivity}" drawable="idiom_dictionary"/>
 
     <!-- 聖經 - 中英對照 -->
     <item component="ComponentInfo{zeoinjesus.bible/zeoinjesus.bible.Main}" drawable="bible_bilingual"/>
@@ -845,7 +845,7 @@
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="remotemultimediaservices"/>
 
     <!-- 銀行即時匯率(ADs) -->
-    <item component="ComponentInfo{info.previse.android.bankfx/info.previse.android.bankfx.SplashScreen}" drawable="instantbankexchangerate"/>
+    <item component="ComponentInfo{info.previse.android.bankfx/info.previse.android.bankfx.SplashScreen}" drawable="instant_bank_exchange_rate"/>
 
     <!-- Newegg -->
     <item component="ComponentInfo{com.newegg.app/com.newegg.app.activity.home.HomeStartActivity}" drawable="newegg" />
@@ -863,8 +863,8 @@
     <item component="ComponentInfo{kik.android/kik.android.chat.fragment.KikFragmentActivity}" drawable="kik"/>
 
     <!-- GTA San Andreas -->
-    <item component="ComponentInfo{com.rockstargames.gtasa/com.rockstargames.gtasa.GTASA}" drawable="grandtheftautosanandreas"/>
-    <item component="ComponentInfo{com.rockstargames.gtasager/com.rockstargames.gtasager.GTASA}" drawable="grandtheftautosanandreas"/>
+    <item component="ComponentInfo{com.rockstargames.gtasa/com.rockstargames.gtasa.GTASA}" drawable="grand_theft_auto_san_andreas"/>
+    <item component="ComponentInfo{com.rockstargames.gtasager/com.rockstargames.gtasager.GTASA}" drawable="grand_theft_auto_san_andreas"/>
 
     <!-- ColorDroid -->
     <item component="ComponentInfo{com.technologx.colordroid/com.technologx.colordroid.HomeActivity}" drawable="color__droid" />
@@ -898,7 +898,7 @@
     <item component="ComponentInfo{com.frostwire.android/com.frostwire.android.gui.activities.MainActivity}" drawable="frostwire"/>
 
     <!-- Hishoot2i -->
-    <item component="ComponentInfo{org.illegaller.ratabb.hishoot2i/org.illegaller.ratabb.hishoot2i.ui.activity.MainActivity}" drawable="hishoot2i"/>
+    <item component="ComponentInfo{org.illegaller.ratabb.hishoot2i/org.illegaller.ratabb.hishoot2i.ui.activity.MainActivity}" drawable="hi__shoot_2i"/>
 
     <!-- Screener -->
     <item component="ComponentInfo{de.toastcode.screener/de.toastcode.screener.LaunchActivity}" drawable="screener"/>
@@ -937,7 +937,7 @@
     <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" drawable="gallery"/>
 
     <!-- jetAudio Plus -->
-    <item component="ComponentInfo{com.jetappfactory.jetaudioplus/com.jetappfactory.jetaudioplus.MusicBrowserActivity}" drawable="jetaudio_plus"/>
+    <item component="ComponentInfo{com.jetappfactory.jetaudioplus/com.jetappfactory.jetaudioplus.MusicBrowserActivity}" drawable="_jet__audio_plus"/>
 
     <!-- Marco Polo -->
     <item component="ComponentInfo{co.happybits.marcopolo/co.happybits.marcopolo.ui.screens.splash.MPSplashActivity}" drawable="marco_polo"/>
@@ -970,7 +970,7 @@
     <item component="ComponentInfo{com.microsoft.cortana/com.microsoft.bing.dss.SplashActivity}" drawable="cortana"/>
 
     <!-- HalloweenWeather -->
-    <item component="ComponentInfo{com.technologx.halloweenweather/com.technologx.halloweenweather.HomeActivity}" drawable="halloweenweather"/>
+    <item component="ComponentInfo{com.technologx.halloweenweather/com.technologx.halloweenweather.HomeActivity}" drawable="halloween_weather_icons"/>
 
     <!-- Twitter -->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter"/>
@@ -982,7 +982,7 @@
     <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="action_3"/>
 
     <!-- ADWLauncher EX -->
-    <item component="ComponentInfo{org.adwfreak.launcher/org.adw.launcherlib.Launcher}" drawable="__adw_launcher_ex"/>
+    <item component="ComponentInfo{org.adwfreak.launcher/org.adw.launcherlib.Launcher}" drawable="___adw_launcher_ex"/>
 
     <!-- ai.type Keyboard Plus -->
     <item component="ComponentInfo{com.aitype.android.p/com.aitype.android.ui.installation.AItypeMainWindow}" drawable="ai_type_keyboard_plus"/>
@@ -1060,25 +1060,25 @@
     <item component="ComponentInfo{com.gau.go.launcherex.key/com.gau.go.launcherex.key.GuideMainActivity}" drawable="___go_launcher_ex_prime"/>
 
     <!-- HD Widgets -->
-    <item component="ComponentInfo{cloudtv.hdwidgets/cloudtv.hdwidgets.activities.MainActivity}" drawable="hd_widgets"/>
+    <item component="ComponentInfo{cloudtv.hdwidgets/cloudtv.hdwidgets.activities.MainActivity}" drawable="___hd_widgets"/>
 
     <!-- Homepack Buzz -->
-    <item component="ComponentInfo{com.buzzpia.aqua.launcher/com.buzzpia.aqua.launcher.app.service.web.HomepackbuzzActivity}" drawable="homepack_buzz"/>
+    <item component="ComponentInfo{com.buzzpia.aqua.launcher/com.buzzpia.aqua.launcher.app.service.web.HomepackbuzzActivity}" drawable="home__pack_buzz"/>
 
     <!-- Keep -->
-    <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="keep"/>
+    <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="google_keep"/>
 
     <!-- KeyBank -->
-    <item component="ComponentInfo{com.key.android/com.key.android.MainActivity}" drawable="keybank"/>
+    <item component="ComponentInfo{com.key.android/com.key.android.MainActivity}" drawable="key__bank_mobile"/>
 
     <!-- KLWP -->
-    <item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity}" drawable="klwp"/>
+    <item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity}" drawable="___klwp"/>
 
     <!-- KLWP Pro -->
-    <item component="ComponentInfo{org.kustom.wallpaper.pro/org.kustom.pro.MainActivity}" drawable="klwp_pro"/>
+    <item component="ComponentInfo{org.kustom.wallpaper.pro/org.kustom.pro.MainActivity}" drawable="___klwp"/>
 
     <!-- Kreativ Zooper -->
-    <item component="ComponentInfo{com.rldesigns.kreativ/com.afollestad.polar.ui.MainActivity}" drawable="kreativ_zooper"/>
+    <item component="ComponentInfo{com.rldesigns.kreativ/com.afollestad.polar.ui.MainActivity}" drawable="kretiv_zooper"/>
 
     <!-- Kroger -->
     <item component="ComponentInfo{com.kroger.mobile/com.kroger.mobile.BannerSelectionActivity}" drawable="kroger"/>
@@ -1090,7 +1090,7 @@
     <item component="ComponentInfo{com.yinzcam.nfl.lions/com.yinzcam.nba.mobile.home.NBAHomeActivity}" drawable="lions"/>
 
     <!-- McAfee Security -->
-    <item component="ComponentInfo{com.wsandroid.suite.lge/com.mcafee.app.LauncherDelegateActivity}" drawable="mcafee_security"/>
+    <item component="ComponentInfo{com.wsandroid.suite.lge/com.mcafee.app.LauncherDelegateActivity}" drawable="mc__afee"/>
 
     <!-- Mech-X for Zooper Widget -->
     <item component="ComponentInfo{com.TheDroidMechanix.mechxforzooper/com.TheDroidMechanix.mechxforzooper.MainActivity}" drawable="mech_x_for_zooper_widget"/>
@@ -1102,10 +1102,10 @@
     <item component="ComponentInfo{com.merriamwebster/com.merriamwebster.dictionary.activity.dictionary.DictionaryActivity}" drawable="merriam_webster_dictionary"/>
 
     <!-- Messenger -->
-    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messenger"/>
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="google_messenger"/>
 
     <!-- MILottery -->
-    <item component="ComponentInfo{air.com.michiganlottery.mobile/air.com.michiganlottery.mobile.AppEntry}" drawable="milottery"/>
+    <item component="ComponentInfo{air.com.michiganlottery.mobile/air.com.michiganlottery.mobile.AppEntry}" drawable="___mi_lottery"/>
 
     <!-- Network Monitor Mini Pro -->
     <item component="ComponentInfo{info.kfsoft.android.TrafficIndicatorPro/info.kfsoft.android.TrafficIndicatorPro.StartActivity}" drawable="network_monitor_mini_pro"/>
@@ -1216,10 +1216,10 @@
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="google_clock"/>
 
     <!-- Guide for Kingo -->
-    <item component="ComponentInfo{tech.kingofroo/tech.kingofroo.MainActivity}" drawable="guide_for_kingo"/>
+    <item component="ComponentInfo{tech.kingofroo/tech.kingofroo.MainActivity}" drawable="guide____for_kingo"/>
 
     <!-- Lookout Security & Antivirus -->
-    <item component="ComponentInfo{com.lookout.gadgetguardian/com.lookout.ui.LoadDispatch}" drawable="lookout_security_and_antivirus"/>
+    <item component="ComponentInfo{com.lookout.gadgetguardian/com.lookout.ui.LoadDispatch}" drawable="gadget_guardian"/>
 
     <!-- Go Speed Memory Boost -->
     <item component="ComponentInfo{com.gto.zero.zboost/com.gto.zero.zboost.shortcut.ShortcutBoostActivity}" drawable="___go_memory_boost"/>
@@ -1229,6 +1229,16 @@
 
     <!-- Cortana Shortcut -->
     <item component="ComponentInfo{com.microsoft.cortana/com.microsoft.bing.dss.widget.CortanaWidgetActivity" drawable="cortana_shortcut"/>
+
+    <!-- Google Gesture Search -->
+    <item component="ComponentInfo{com.google.android.apps.gesturesearch/com.google.android.apps.gesturesearch.GShell}" drawable="google_gesture_search"/>
+    <item component="ComponentInfo{com.google.android.apps.gesturesearch/com.google.android.apps.gesturesearch.GShellAppWidgetItemLauncher}" drawable="google_gesture_search"/>
+
+    <!-- Kustoms Little Red Book -->
+    <item component="ComponentInfo{youtube.demo.youtubedemo/kustomized.kustomslittleredbook.MainActivity}" drawable="kustoms_little_red_book"/>
+
+    <!-- NBA -->
+    <item component="ComponentInfo{com.nbadigital.gametimelite/com.nbadigital.gametimelite.features.splash.Splashactivity}" drawable="___nba"/>
 
 
 </resources>
