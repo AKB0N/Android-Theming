@@ -117,7 +117,7 @@
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store"/>
 
     <!-- QuickMemo+ -->
-    <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}" drawable="quickmemoplus"/>
+    <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}" drawable="quick_memos_plus"/>
 
     <!-- Settings -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings"/>
@@ -393,10 +393,10 @@
     <!-- My OldBoy & My OldBoy Paid -->
     <item
         component="ComponentInfo{com.fastemulator.gbc/com.fastemulator.gbc.MainActivity}"
-        drawable="myoldboy" />
+        drawable="my_old_boy" />
     <item
         component="ComponentInfo{com.fastemulator.gbcfree/com.fastemulator.gbc.MainActivity}"
-        drawable="myoldboy" />
+        drawable="my_old_boy" />
 
     <!-- Netflix -->
     <item
@@ -649,6 +649,7 @@
     <item component="ComponentInfo{uk.co.economist/uk.co.economist.activity.Splash}" drawable="economist"/>
 
     <!-- Email -->
+    <item component="ComponentInfo{com.lge.email/com.lge.ui.setupwizard.Welcome}" drawable="e__mail"/>
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="e__mail"/>
 
     <!-- Evernote -->
@@ -1131,6 +1132,7 @@
     <item component="ComponentInfo{com.gotv.nflgamecenter.us.lite/com.nfl.mobile.SplashActivity}" drawable="___nfl_mobile"/>
 
     <!-- Nova Launcher Prime -->
+    <item component="ComponentInfo{com.teslacolisw.launcher/com.teslacolisw.launcher.NovaShortcutHandler}" drawable="nova_launcher"/>
     <item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime"/>
 
     <!-- OnyX for Zooper -->
@@ -1264,6 +1266,9 @@
 
     <!-- Youtube Music -->
     <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
+
+    <!-- Today's Calendar -->
+    <item component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" drawable="todays_calendar"/>
 
 
 </resources>
