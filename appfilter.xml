@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <!-- Quick Icon Theming -->
+    <item component=":BROWSER" drawable="browser" />
+    <item component=":CALCULATOR" drawable="calculator" />
+    <item component=":CALENDAR" drawable="calendar" />
+    <item component=":CAMERA" drawable="camera" />
+    <item component=":CLOCK" drawable="clock" />
+    <item component=":CONTACTS" drawable="contacts" />
+    <item component=":EMAIL" drawable="e__mail" />
+    <item component=":GALLERY" drawable="gallery" />
+    <item component=":PHONE" drawable="phone" />
+    <item component=":SMS" drawable="messages" />
+    <!-- Quick Icon Theming End -->
+
     <!-- Adobe Acrobat -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat"/>
 
@@ -744,6 +757,7 @@
 
     <!-- Prisma -->
     <item component="ComponentInfo{com.neuralprisma/com.prisma.activity.CameraActivity}" drawable="prisma"/>
+    <item component="ComponentInfo{com.neuralprisma/com.prisma.ui.starter.StarterActivity}" drawable="prisma"/>
 
     <!-- Quick Reboot -->
     <item component="ComponentInfo{com.antaresone.quickrebootpro/com.antaresone.quickrebootpro.QuickRebootPro}" drawable="quick_reboot"/>
@@ -1267,8 +1281,225 @@
     <!-- Youtube Music -->
     <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
 
-    <!-- Today's Calendar -->
-    <item component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" drawable="todays_calendar"/>
+    <!-- Today Calendar -->
+    <item component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" drawable="today_calendar"/>
+    <calendar component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" prefix="calendar_" />
 
+    <!-- 1Limburg -->
+    <item component="ComponentInfo{nl.eenlimburg.app/com.icapps.eenlimburg.activity.splash.SplashActivity_}" drawable="limburg_1"/>
+
+    <!-- AccuBattery -->
+    <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="acuu__battery"/>
+
+    <!-- AD -->
+    <item component="ComponentInfo{be.persgroep.android.news.mobilead/mobi.inthepocket.android.persgroep.adw.activities.MainActivity}" drawable="___ad"/>
+
+    <!-- AlleFolders -->
+    <item component="ComponentInfo{com.jafolders.allefolders/com.jafolders.folderfan.activities.MainActivity}" drawable="alle_folders"/>
+
+    <!-- Androidworld -->
+    <item component="ComponentInfo{com.reader.androidworld3/com.reader.androidworld3.AndroidworldReader}" drawable="android_world"/>
+
+    <!-- Barcode Scanner -->
+    <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode_scanner"/>
+
+    <!-- BNR -->
+    <item component="ComponentInfo{nl.fd.bnr/nl.fd.bnr.splash.SplashScreenActivity}" drawable="___bnr"/>
+
+    <!-- Burger King -->
+    <item component="ComponentInfo{de.burgerking.kingfinder/de.xroot.burgerking.ui.activity.SplashScreenActivity}" drawable="burger_king"/>
+
+    <!-- Chromer -->
+    <item component="ComponentInfo{arun.com.chromer/arun.com.chromer.MainActivity}" drawable="chromer"/>
+
+    <!-- Cyclingoo -->
+    <item component="ComponentInfo{com.cyclingoo.app/com.cyclingoo.app.SplashScreenActivity}" drawable="cyclingoo"/>
+
+    <!-- DigiCal -->
+    <item component="ComponentInfo{com.digibites.calendar/com.digibites.calendar.WeekAgendaActivity}" drawable="digical"/>
+
+    <!-- DroidApp -->
+    <item component="ComponentInfo{nl.droidapp/nl.droidapp.Main2Activity}" drawable="droid__app"/>
+
+    <!-- Eneco -->
+    <item component="ComponentInfo{com.afrogleap.eneco.myeneco/com.afrogleap.eneco.myeneco.activity.SplashActivity}" drawable="mijn_eneco"/>
+
+    <!-- Flamingo -->
+    <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher1}" drawable="flamingo_for_twitter"/>
+
+    <!-- Goedkoop treinkaartje -->
+    <item component="ComponentInfo{com.goedkooptreinkaartjenl/com.appyet.activity.MainActivity}" drawable="goedkoop_treinkaartje"/>
+
+    <!-- Hue -->
+    <item component="ComponentInfo{com.philips.lighting.hue/com.philips.lighting.hue.HueContentActivity}" drawable="philips_hue_gen_1"/>
+
+    <!-- Inbox -->
+    <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="inbox_by_gmail"/>
+
+    <!-- KopieID -->
+    <item component="ComponentInfo{com.milvum.kopieid/com.milvum.kopieid.activity.HomeActivity}" drawable="kopie___id"/>
+
+    <!-- LinkedIn -->
+    <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linked__in"/>
+
+    <!-- LinkedIn Job Search -->
+    <item component="ComponentInfo{com.linkedin.android.jobs.jobseeker/com.linkedin.android.jobs.jobseeker.activity.AppLauncherActivity}" drawable="linked__in_job_search"/>
+
+    <!-- McDonald's -->
+    <item component="ComponentInfo{com.xs2theworld.mcdonalds/com.xs2theworld.mcdonalds.activities.MDSplashScreenActivity}" drawable="mc__donalds_nederland"/>
+
+    <!-- MEGA -->
+    <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}" drawable="___mega"/>
+
+    <!-- Metal -->
+    <item component="ComponentInfo{com.nam.fbwrapper/com.danvelazco.fbwrapper.SplashActivity}" drawable="metal_for_facebook_and_twitter"/>
+
+    <!-- Mijn Randstad -->
+    <item component="ComponentInfo{nl.randstad.planning/md5688e0b8a40f6b00cda7eb5f85f0efff5.SplashScreen}" drawable="mijn_randstad"/>
+
+    <!-- MijnGemeente -->
+    <item component="ComponentInfo{nl.beheervisie.burgerapp/nl.beheervisie.burgerapp.LauncherActivity}" drawable="mijn__gemeente"/>
+
+    <!-- MijnKPN -->
+    <item component="ComponentInfo{nl.kpn.mijn/nl.kpn.mijn.activity.SplashActivity}" drawable="mijn_kpn"/>
+
+    <!-- NOS -->
+    <item component="ComponentInfo{nl.nos.app/nl.nos.app.activity.SplashActivity}" drawable="___nos"/>
+
+    <!-- NS International -->
+    <item component="ComponentInfo{nl.nshispeed/de.hafas.main.HafasApp}" drawable="___ns_international"/>
+
+    <!-- NU.nl -->
+    <item component="ComponentInfo{nl.sanomamedia.android.nu/nl.sanomamedia.android.nu.activity.NUMainActivity}" drawable="_nu_nl"/>
+
+    <!-- NUsport -->
+    <item component="ComponentInfo{hu.sanoma.nusport/nl.sanomamedia.android.nusport.activity.NSMainActivity}" drawable="nusport"/>
+
+    <!-- Omroep Brabant -->
+    <item component="ComponentInfo{nl.omroepbrabant.android/com.peperzaken.regionaleomroepen.MainActivity}" drawable="omroep_brabant"/>
+
+    <!-- OV-chipkaart -->
+    <item component="ComponentInfo{nl.tls.ovchip/nl.tls.ovchip.ui.activities.MainActivity}" drawable="ov_chipkaart"/>
+
+    <!-- OVinfo -->
+    <item component="ComponentInfo{nl.skywave.ovinfo/nl.ovapi.ovinfo.MainActivity}" drawable="ovinfo"/>
+
+    <!-- Rabo Bankieren -->
+    <item component="ComponentInfo{nl.rabomobiel/nl.rabomobiel.SplashScreen}" drawable="rabo_bankieren"/>
+
+    <!-- Reisplanner -->
+    <item component="ComponentInfo{nl.ns.android.activity/nl.ns.android.activity.start.StartActivity}" drawable="___ns_eisplanner_xtra"/>
+
+    <!-- Service -->
+    <item component="ComponentInfo{nl.click.mobile.kpnservice/nl.click.mobile.kpnservice.activity.SplashScreenActivity}" drawable="service"/>
+
+    <!-- Slack -->
+    <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
+
+    <!-- STACK -->
+    <item component="ComponentInfo{nl.transip.stack/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="stack"/>
+
+    <!-- SwiftKey-toetsenbord -->
+    <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity-Icon}" drawable="swiftkey_toetsenbord"/>
+
+    <!-- Tapatalk -->
+    <item component="ComponentInfo{com.quoord.tapatalkpro.activity/com.quoord.tapatalkpro.activity.directory.ics.IcsEntryActivity}" drawable="tapatalk"/>
+
+    <!-- Telegram -->
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram"/>
+
+    <!-- Toon -->
+    <item component="ComponentInfo{nl.eneco.apps.toonopafstand/nl.eneco.toon.android.activities.StartActivity}" drawable="toon"/>
+
+    <!-- Tweetings -->
+    <item component="ComponentInfo{com.dwdesign.tweetings/com.dwdesign.tweetings.activity.HomeActivity}" drawable="tweetings"/>
+
+    <!-- Vacatures -->
+    <item component="ComponentInfo{nl.vacatures.jobsearch/nl.vacatures.jobsearch.SplashActivity}" drawable="vacatures"/>
+
+    <!-- Vacatures Zoeken -->
+    <item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.MainActivity}" drawable="vacatures_zoeken"/>
+
+    <!-- Wallz -->
+    <item component="ComponentInfo{mobi.lockdown.wallz/mobi.appplus.oemwallpapers.MainActivity}" drawable="wallz"/>
+
+    <!-- Weer -->
+    <item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="weer"/>
+
+    <!-- Weerplaza -->
+    <item component="ComponentInfo{nl.weerplaza.app/nl.weerplaza.app.SplashActivity}" drawable="weerplaza"/>
+
+    <!-- Wegenwacht -->
+    <item component="ComponentInfo{com.themobilecompany.ANWBWegenwacht/com.themobilecompany.ANWBWegenwacht.SplashActivity}" drawable="wegenwacht"/>
+
+    <!-- Wegwijzer WW -->
+    <item component="ComponentInfo{nl.uwv.wegwijzerww/nl.uwv.wegwijzerww.activity.SplashScreenActivity}" drawable="wegwijzer_ww"/>
+
+    <!-- Amazon -->
+    <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon"/>
+
+    <!-- Amazon Kindle -->
+    <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="amazon_kindle"/>
+
+    <!-- Amazon Music -->
+    <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" drawable="amazon_music"/>
+
+    <!-- BofA -->
+    <item component="ComponentInfo{com.infonow.bofa/com.infonow.bofa.Launcher}" drawable="bank_of_america"/>
+
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator"/>
+
+    <!-- Chase -->
+    <item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.HomeActivity}" drawable="chase"/>
+
+    <!-- Craigslist Postings -->
+    <item component="ComponentInfo{com.trixiesoft.clapp/com.trixiesoft.clapp.ui.home.HomeActivity}" drawable="craigslist_postings"/>
+
+    <!-- Fitbit -->
+    <item component="ComponentInfo{com.fitbit.FitbitMobile/com.fitbit.FirstActivity}" drawable="fitbit"/>
+
+    <!-- LinkedIn -->
+    <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin"/>
+
+    <!-- Outlook -->
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoft_outlook"/>
+
+    <!-- Photo Grid -->
+    <item component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.MainPage}" drawable="photo_grid"/>
+
+    <!-- PSS☆U -->
+    <item component="ComponentInfo{com.mikedepaul.perfectscreenshotadfree/com.mikedepaul.pss_common_library.MainActivity}" drawable="perfect_screenshot_ultra"/>
+
+    <!-- Words -->
+    <item component="ComponentInfo{com.zynga.wwf2.free/com.zynga.words2.ui.launch.Words2LaunchActivity}" drawable="word_with_friends"/>
+
+    <!-- XDA Premium 5 -->
+    <item component="ComponentInfo{com.quoord.tapatalkxdapre.activity/com.quoord.tapatalkpro.activity.directory.ics.IcsEntryActivity}" drawable="xda_premium_5"/>
+
+    <!-- Yelp -->
+    <item component="ComponentInfo{com.yelp.android/com.yelp.android.ui.activities.RootActivity}" drawable="yelp"/>
+
+    <!-- Galaxy Apps -->
+    <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="galaxy_apps"/>
+
+    <!-- Mobile Security -->
+    <item component="ComponentInfo{com.comodo.cisme.antivirus/com.comodo.cisme.antivirus.ui.activity.EntranceActivity}" drawable="comodo_mobile_security"/>
+
+    <!-- My Files -->
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="my_files"/>
+
+    <!-- S Note -->
+    <item component="ComponentInfo{com.samsung.android.snote/com.samsung.android.snote.control.ui.filemanager.MainHomeActivity}" drawable="s_note"/>
+
+    <!-- Samsung Pay -->
+    <item component="ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}" drawable="samsung_pay"/>
+
+    <!-- Translate -->
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate"/>
+
+    <!-- Yandex
+    Browser -->
+    <item component="ComponentInfo{com.yandex.browser/com.yandex.browser.YandexBrowserActivity}" drawable="yandex_browser_for_android"/>
 
 </resources>
