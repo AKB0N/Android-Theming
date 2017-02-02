@@ -16,4 +16,4 @@ A file that is similar to the appfilter this file is needed in order for your ic
 A file that contains some of your theme's info that shows up when a user seletcs your icon pack to use with the launcher they're using.
 <hr>
 # themeinfo.xml <a href='https://github.com/Technologx/Android-Theming/blob/master/iconpackneededfiles/themeinfo.xml' target='_blank'>View</a>
-Another file similar to themecfg but this one cotains more information for launchers to use like <themePointColor>#546e7a</themePointColor> this line I believe is the color that gets used with your icon pack. Like ADW will use this and set the theme's set font color to what ever hex color code you have listed on that line of code.
+Another file similar to themecfg but this one cotains more information for launchers to use like themePointColor #546e7a this line I believe is the color that gets used with your icon pack. Like ADW will use this and set the theme's set font color to what ever hex color code you have listed on that line of code.
