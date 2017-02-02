@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright © 2016-2017  Technologx
+  ~ Copyright © 2016-2017  Fire Bird Designs
+  ~ https://technologx.com
+  -->
+    <appmap>
+<!-- ADM Pro -->
+<item class="com.dv.adm.pay.Main" name="adm_pro" />
+
+    <!-- Allo -->
+<item class="com.google.android.apps.fireball.ui.conversationlist.ConversationListActivity" name="allo" />
+
+    <!-- File Manager -->
+<item class="com.cyanogenmod.filemanager.activities.NavigationActivity" name="file_manager" />
+
+    <!-- My Maps -->
+<item class="com.google.android.apps.mymaps.activities.maplist.MapListActivity" name="my_maps" />
+
+    <!-- Phone -->
+<item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="phone" />
+
+    <!-- Pushbullet -->
+<item class="com.pushbullet.android.ui.LaunchActivity" name="push_bullet" />
+
+    <!-- Santa Tracker -->
+<item class="com.google.android.apps.santatracker.launch.StartupActivity" name="santa_tracker" />
+
+    <!-- Link -->
+    <item class="com.misfit.link.ui.SplashScreenActivity" name="misfit_link" />
+
+    <!-- Textfree -->
+    <item class="com.pinger.textfree.call.activities.TFSplash" name="text_free" />
+
+    <!-- AZ Screen Recorder -->
+    <item class="com.hecorat.screenrecorder.free.main.MainActivity" name="az_screen_recorder" />
+
+    <!-- Backgrounds -->
+    <item class="com.ogqcorp.bgh.activity.MainActivity" name="backgrounds" />
+
+    <!-- Downloads -->
+    <item class="com.android.documentsui.LauncherActivity" name="downloads" />
+
+    <!-- eBay -->
+    <item class="com.ebay.mobile.activities.eBay" name="ebay" />
+
+    <!-- Kustom Icon Plugin -->
+    <item class="com.arun.kustomiconpack.MainActivity" name="kustom_icon_plugin" />
+
+    <!-- Phone -->
+    <item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="phone" />
+
+    <!-- Textra -->
+    <item class="com.mplus.lib.Main_ffffca28" name="textra" />
+
+    <!-- Academy -->
+    <item class="com.mcom.MobileBanking" name="academy" />
+
+    <!-- Allo -->
+    <item class="com.google.android.apps.fireball.ui.conversationlist.ConversationListActivity" name="allo" />
+
+    <!-- Android Auto -->
+    <item class="com.google.android.gearhead.vanagon.VnLaunchPadActivity" name="android_auto" />
+
+    <!-- Cartwheel -->
+    <item class="com.target.socsav.activity.LoginActivity" name="cartwheel" />
+
+    <!-- Chrooma Keyboard -->
+    <item class="org.smc.inputmethod.indic.settings.StartActivity" name="chrooma_keyboard" />
+
+    <!-- Credit Karma -->
+    <item class="com.creditkarma.mobile.ui.WelcomeActivity" name="credit_karma" />
+
+    <!-- Device Unlock -->
+    <item class="com.tmobile.simlock.WelcomeActivity" name="device_unlock" />
+
+    <!-- Downloads -->
+    <item class="com.android.documentsui.LauncherActivity" name="downloads" />
+
+    <!-- Eagles -->
+    <item class="com.yinzcam.nba.mobile.home.NBAHomeActivity" name="eagles" />
+
+    <!-- Enterprise -->
+    <item class="com.ehi.enterprise.android.ui.splash.SplashActivity" name="enterprise" />
+
+    <!-- Fly Delta -->
+    <item class="com.delta.mobile.android.SplashScreen" name="fly_delta" />
+
+    <!-- FM Radio -->
+    <item class="com.lge.fmradio.IntroActivity" name="___lg_fm_radio" />
+
+    <!-- Gogo Entertainment -->
+    <item class="com.gogoair.ife.views.activities.MainActivity" name="gogo_entertainment" />
+
+    <!-- HD Audio Recorder -->
+    <item class="com.lge.hifirecorder.LaunchHifiRecorder" name="hd_audio_recorder" />
+
+    <!-- HHonors -->
+    <item class="com.mofo.android.hilton.core.activity.BootActivity" name="h__honors" />
+
+    <!-- In Apps -->
+    <item class="com.lge.googleinapps.GoogleInApps" name="in_apps" />
+
+    <!-- Kohls -->
+    <item class="com.kohls.mcommerce.opal.framework.view.activity.KohlsSplashScreen" name="kohls" />
+
+    <!-- Kustom Icon Plugin -->
+    <item class="com.arun.kustomiconpack.MainActivity" name="kustom_icon_plugin" />
+
+    <!-- Layout -->
+    <item class="com.instagram.layout.LayoutActivity" name="layout" />
+
+    <!-- letgo -->
+    <item class="com.abtnprojects.ambatana.presentation.productlist.ProductListActivity" name="letgo" />
+
+    <!-- LG Friends Manager -->
+    <item class="com.lge.friendsmanager.FriendsManagerMainActivity" name="___lg_friends_manager" />
+
+    <!-- LG Health -->
+    <item class="com.lge.lifetracker.ui.MainActivity" name="___lg_health" />
+
+    <!-- Live TV -->
+    <item class="com.sling.slingtvloader.SplashActivity" name="live_tv" />
+
+    <!-- Lookout -->
+    <item class="com.lookout.ui.LoadDispatch" name="gadget_guardian" />
+
+    <!-- Meme Generator Free -->
+    <item class="com.zombodroid.memegenerator2source.SplashActivity" name="meme_generator_free" />
+
+    <!-- Merrick Bank -->
+    <item class="com.merrickbank.smartclient.prod.Activity" name="merrick_bank" />
+
+    <!-- Mobile HotSpot -->
+    <item class="com.lge.hotspotlauncher.HotspotLauncher" name="mobile_hotspot" />
+
+    <!-- My Maps -->
+    <item class="com.google.android.apps.mymaps.activities.maplist.MapListActivity" name="my_maps" />
+
+    <!-- My Premier Credit Card -->
+    <item class="com.firstpremier.mypremiercreditcard.MainActivity" name="my_premier_credit_card" />
+
+    <!-- National -->
+    <item class="com.ehi.national.mobile.SplashActivity" name="national" />
+
+    <!-- OpenTable -->
+    <item class="com.opentable.activities.search.SearchResults" name="opentable" />
+
+    <!-- Papa John's -->
+    <item class="com.papajohns.android.IntroActivity" name="papa_johns" />
+
+    <!-- PayPal -->
+    <item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="paypal" />
+
+    <!-- PayPal Here -->
+    <item class="com.paypal.here.StartUpActivity" name="paypal_here" />
+
+    <!-- Periscope -->
+    <item class="tv.periscope.android.LaunchActivity" name="periscope" />
+
+    <!-- Pulse -->
+    <item class="xyz.klinker.messenger.activity.MessengerActivity" name="pulse" />
+
+    <!-- Quick Help -->
+    <item class="com.lge.qhelp.application.QHelpMain" name="quick_help" />
+
+    <!-- Quickey Calculator -->
+    <item class="org.whiteglow.quickeycalculator.activity.MainActivity" name="quickey_calculator" />
+
+    <!-- QuickRemote -->
+    <item class="com.lge.qremote.ui.QRemoteMainActivity" name="quick_remote" />
+
+    <!-- Reddit -->
+    <item class="com.reddit.frontpage.StartActivity" name="reddit" />
+
+    <!-- SmartWorld -->
+    <item class="com.lge.lgworld.ui.activity.MainActivity" name="smart__world" />
+
+    <!-- T-Mobile Name ID -->
+    <item class="com.whitepages.nameid.ui.NIMainActivity" name="t__mobile_name_id" />
+
+    <!-- T-Mobile Tuesdays -->
+    <item class="com.tmobile.tuesdays.activities.MainActivity_" name="t__mobile_tuesdays" />
+
+    <!-- T-Mobile TV -->
+    <item class="com.mobitv.client.tmobiletvhd.MobiTVPlayer" name="t__mobile_tv" />
+
+    <!-- TinyScanner -->
+    <item class="com.appxy.tinyscanfree.Activity_Start" name="tiny_scanner" />
+
+    <!-- Unclouded -->
+    <item class="com.cgollner.unclouded.ui.MainActivity" name="unclouded" />
+
+    <!-- Vingle -->
+    <item class="com.vingle.application.splash.VingleSplashActivity" name="vingle" />
+
+    <!-- Visual Voicemail -->
+    <item class="com.tmobile.vvm.application.activity.setup.WelcomeActivity" name="visual_voicemail" />
+
+    <!-- Visualis -->
+    <item class="ya.visualis.activities.MainActivity" name="visualis" />
+
+    <!-- Walgreens -->
+    <item class="com.usablenet.mobile.walgreen.AppStart" name="walgreens" />
+
+    <!-- Wallet -->
+    <item class="com.capitalone.mobile.wallet.launch.SplashActivity" name="capital_one_wallet" />
+
+    <!-- Wallpapers -->
+    <item class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="wallpapers" />
+
+    <!-- WatchMaker Premium -->
+    <item class="slide.watchFrenzy.MobileActivity" name="watchmaker_premium" />
+
+    <!-- Allo -->
+    <item class="com.google.android.apps.fireball.ui.conversationlist.ConversationListActivity" name="allo" />
+
+    <!-- Curiosity -->
+    <item class="com.curiosity.activities.OnboardingActivity" name="curiosity" />
+
+    <!-- Fenix -->
+    <item class="it.mvilla.android.fenix.ui.activity.WelcomeActivity" name="fenix" />
+
+    <!-- Inoreader -->
+    <item class="com.innologica.inoreader.activities.BootstrapActivity" name="inoreader" />
+
+    <!-- Marco Polo -->
+    <item class="co.happybits.marcopolo.ui.screens.splash.SplashActivity" name="marco_polo" />
+
+    <!-- Pocket Casts -->
+    <item class="au.com.shiftyjelly.pocketcasts.ui.MainActivity" name="pocket_casts" />
+
+    <!-- Poweramp -->
+    <item class="com.maxmpz.audioplayer.StartupActivity" name="poweramp" />
+
+    <!-- Pulse -->
+    <item class="xyz.klinker.messenger.activity.MessengerActivity" name="pulse" />
+
+    <!-- Todoist -->
+    <item class="com.todoist.activity.HomeActivity" name="todoist" />
+
+    <!-- USAA -->
+    <item class="com.usaa.mobile.android.app.common.MyUSAAActivity" name="___usaa" />
+
+    <!-- AB Action! -->
+    <item class="com.taggames.popcorn.PopcornActivity" name="angry_birds_action" />
+
+    <!-- Adobe AIR -->
+    <item class="com.adobe.air.AdobeAIRMainActivity" name="adobe_air" />
+
+    <!-- Alarm.com -->
+    <item class="com.alarm.alarmmobile.android.activity.LoginActivity" name="alarm_dot_com" />
+
+    <!-- Alexa -->
+    <item class="com.amazon.dee.webapp.activity.AlexaWebAppActivity" name="amazon_alexa" />
+
+    <!-- Android Auto -->
+    <item class="com.google.android.gearhead.vanagon.VnLaunchPadActivity" name="android_auto" />
+
+    <!-- Angry Birds -->
+    <item class="com.rovio.fusion.App" name="angry_birds_friends" />
+
+    <!-- Angry Birds -->
+    <item class="com.rovio.angrybirdsgo.AngryBirdsGoActivity" name="angry_birds_go" />
+
+    <!-- Angry Birds -->
+    <item class="com.rovio.fusion.App" name="angry_birds_rio" />
+
+    <!-- Angry Birds -->
+    <item class="com.rovio.fusion.App" name="angry_birds_seasons" />
+
+    <!-- Angry Birds -->
+    <item class="com.rovio.fusion.App" name="angry_birds_space" />
+
+    <!-- Angry Birds -->
+    <item class="com.rovio.fusion.App" name="angry_birds_star_wars_2" />
+
+    <!-- Angry Birds -->
+    <item class="com.rovio.angrybirdstransformers.AngryBirdsTransformersActivity" name="angry_birds_transformers" />
+
+    <!-- Angry Birds 2 -->
+    <item class="com.rovio.rcs.RovioUnityActivity" name="angry_birds_2" />
+
+    <!-- Audio Recorder -->
+    <item class="com.rimidalv.dictaphone.MainActivity" name="audio_recorder" />
+
+    <!-- Bad Piggies -->
+    <item class="com.mentalmoustache.immerse.ImmerseActivity" name="angry_birds_bad_piggies" />
+
+    <!-- Better YouMail -->
+    <item class="com.bestitguys.BetterYouMailPro.BetterYouMail" name="better_youmail" />
+
+    <!-- Colorfy -->
+    <item class="com.fungamesforfree.colorfy.SplashScreenActivity" name="colorfy" />
+
+    <!-- Costco -->
+    <item class="com.costco.app.android.LaunchActivity" name="costco" />
+
+    <!-- DIRECTV -->
+    <item class="com.directv.dvrscheduler.activity.core.Setup" name="directv" />
+
+    <!-- Etsy -->
+    <item class="com.etsy.android.ui.homescreen.HomescreenTabsActivity" name="etsy" />
+
+    <!-- File Commander -->
+    <item class="com.mobisystems.files.FileBrowser" name="file_commander" />
+
+    <!-- Flashify -->
+    <item class="com.cgollner.flashify.MainActivity" name="flashify" />
+
+    <!-- Flipboard -->
+    <item class="flipboard.activities.LaunchActivityAlias" name="flipboard" />
+
+    <!-- Marios World -->
+    <item class="superworld.classicmario.jocker.GameActivity" name="marios_world" />
+
+    <!-- Nextdoor -->
+    <item class="com.nextdoor.nux.NuxActivity" name="nextdoor" />
+
+    <!-- QmEye -->
+    <item class="com.HkstreamNatQMEye.AcLogo" name="qmeye" />
+
+    <!-- Schwab -->
+    <item class="com.schwab.mobile.activity.SplashScreenActivity" name="schwab" />
+
+    <!-- SolarEdge -->
+    <item class="com.solaredge.monitor.ui.LoginActivity" name="solaredge" />
+
+    <!-- Torque -->
+    <item class="org.prowl.torque.landing.FrontPage" name="torque" />
+
+    <!-- TuneIn Radio -->
+    <item class="tunein.ui.actvities.TuneInHomeActivity" name="tune__in_radio_pro" />
+
+    <!-- FM Radio -->
+    <item class="com.lge.fmradio.IntroActivity" name="___lg_fm_radio" />
+
+    <!-- LG Health -->
+    <item class="com.lge.lifetracker.ui.MainActivity" name="___lg_health" />
+
+    <!-- Nightfall - Icon Pack -->
+    <item class="com.tsa.nightfall.HomeActivity" name="nightfall_icon_pack" />
+
+    <!-- QuickRemote -->
+    <item class="com.lge.qremote.ui.QRemoteMainActivity" name="quick_remote" />
+
+    <!-- SuperSU -->
+    <item class="eu.chainfire.supersu.MainActivity-Material" name="super___su" />
+
+    <!-- ViPER4Arise -->
+    <item class="com.audlabs.viperfx.main.MainActivity" name="viper4arise" />
+
+    <!-- Calculator -->
+    <item class="com.tct.calculator.Calculator" name="calculator" />
+
+    <!-- Call -->
+    <item class="com.android.dialer.DialtactsActivity" name="phone" />
+
+    <!-- Camera -->
+    <item class="com.android.camera.CameraLauncher" name="camera" />
+
+    <!-- Clock -->
+    <item class="com.android.deskclock.DeskClock" name="clock" />
+
+    <!-- File Manager -->
+    <item class="com.jrdcom.filemanager.activity.FileBrowserActivity" name="file_manager" />
+
+    <!-- Gallery -->
+    <item class="com.tct.gallery3d.app.PermissionActivity" name="gallery" />
+
+    <!-- Gardenscapes -->
+    <item class="com.playrix.gardenscapes.LoadActivityStore" name="gardenscapes" />
+
+    <!-- Messaging -->
+    <item class="com.android.mms.ui.BootActivity" name="messaging" />
+
+    <!-- Music -->
+    <item class="com.android.music.MusicBrowserActivity" name="music" />
+
+    <!-- My Account -->
+    <item class="com.tracfone.generic.myaccountcommonui.activity.LaunchActivity" name="my_account" />
+
+    <!-- My Account Downloader -->
+    <item class="com.tracfone.generic.downloaderapp.DownloaderActivity" name="my_account_downloader" />
+
+    <!-- Radio -->
+    <item class="com.android.fmradio.FmMainActivity" name="radio" />
+
+    <!-- Sound Recorder -->
+    <item class="com.tct.soundrecorder.SoundRecorder" name="sound_recorder" />
+
+    <!-- Technologx -->
+    <item class="com.technologx.MainNavigationActivity" name="technologx" />
+
+    <!-- Weather -->
+    <item class="com.tct.weather.MainActivity" name="weather" />
+
+    <!-- Wi-Fi Utility -->
+    <item class="com.tracfone.wifiutility.BxSettings" name="wi_fi_utility" />
+
+    <!-- CFCU -->
+    <item class="nz.co.mcom.phone.login.SplashscreenActivity" name="___cfcu" />
+
+    <!-- GalleryVault -->
+    <item class="com.thinkyeah.galleryvault.LockingActivity" name="gallery__vault" />
+
+    <!-- Peel Smart Remote -->
+    <item class="com.peel.main.Main" name="peel_smart_remote" />
+
+    <!--  TSF Launcher Prime -->
+    <item class="com.tsf.shell.ShellActivity" name="___tsf_launcher_prime" />
+
+    <!-- BlueMail -->
+    <item
+        class="com.trtf.blue.activity.Accounts"
+        name="blue__mail"/>
+
+    <!-- FireBirdRequester -->
+    <item
+        class="com.technologx.firebirdrequester.HomeActivity"
+        name="fire__bird__requester"/>
+
+    <!-- BT Notification -->
+    <item
+        class="com.mtk.btnotification.SettingActivity"
+        name="bt_notification"/>
+
+    <!-- Fire Bird Designs -->
+    <item
+        class="com.technologx.firebirddesigns.Splash"
+        name="fire_bird_designs"/>
+
+    <!-- TeamViewer -->
+    <item
+        class="com.teamviewer.remotecontrollib.activity.MainActivity"
+        name="team__viewer"/>
+
+    <!-- Technologx Paid -->
+    <item
+        class="com.wTechnologxPaid_4166848.MainNavigationActivity"
+        name="technologx_paid"/>
+
+    <!-- BT Messenger -->
+    <item
+        class="skpec.coe.adhocsocialnetworkmanager.MainActivity"
+        name="bt_messenger"/>
+
+    <!-- Criminal Case -->
+    <item
+        class="com.prettysimple.game.CriminalCaseLauncher"
+        name="criminal_case"/>
+
+    <!-- Farms & Castles -->
+    <item
+        class="com.squareenix.farmscastles.AppEntry"
+        name="farms_and_castles"/>
+
+    <!-- AB Blast! -->
+    <item
+        class="com.mybo.game.SplashActivity"
+        name="angry_birds_blast"/>
+
+    <!-- Boost Zone -->
+    <item
+        class="com.sprint.zone.lib.core.LaunchZone"
+        name="boost_zone"/>
+
+    <!-- CVS -->
+    <item
+        class="com.cvs.launchers.cvs.StartupActivity"
+        name="___cvs_pharmacy"/>
+
+    <!-- Calculator -->
+    <item
+        class="com.android.calculator2.Calculator"
+        name="calculator"/>
+
+    <!-- Calendar -->
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="calendar"/>
+
+    <!-- Camera -->
+    <item
+        class="com.lge.camera.CameraAppLauncher"
+        name="camera"/>
+
+    <!-- Carved -->
+    <item
+        class="com.technologx.carved.HomeActivity"
+        name="carved"/>
+
+    <!-- CarvedLight -->
+    <item
+        class="com.technologx.carved.light.HomeActivity"
+        name="carved_light"/>
+
+    <!-- Clock -->
+    <item
+        class="com.lge.clock.AlarmClockActivity"
+        name="clock"/>
+
+    <!-- Dolphin -->
+    <item
+        class="mobi.mgeek.TunnyBrowser.BrowserActivity"
+        name="dolphin_browser"/>
+
+    <!-- Downloads -->
+    <item
+        class="com.android.providers.downloads.ui.DownloadList"
+        name="downloads"/>
+
+    <!-- Duolingo -->
+    <item
+        class="com.duolingo.app.LoginActivity"
+        name="duolingo"/>
+
+    <!-- ES File Explorer -->
+    <item
+        class="com.estrongs.android.pop.view.FileExplorerActivity"
+        name="___es_file_explorer"/>
+
+    <!-- Email -->
+    <item
+        class="com.lge.email.ui.setupwizard.Welcome"
+        name="e__mail"/>
+
+    <!-- Emergency Alerts -->
+    <item
+        class="com.lge.cmas.ui.CmasThreadList"
+        name="emergency_alerts"/>
+
+    <!-- Facebook -->
+    <item
+        class="com.facebook.katana.LoginActivity"
+        name="facebook"/>
+
+    <!-- GO Speed -->
+    <item
+        class="com.gto.zero.zboost.activity.MainActivity"
+        name="___go_speed"/>
+
+    <!-- Gallery -->
+    <item
+        class="com.android.gallery3d.app.Gallery"
+        name="gallery"/>
+
+    <!-- Google Keyboard -->
+    <item
+        class="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"
+        name="google_keyboard"/>
+
+    <!-- Google Settings -->
+    <item
+        class="com.google.android.gms.app.settings.GoogleSettingsActivity"
+        name="google_settings"/>
+
+    <!-- Google+ -->
+    <item
+        class="com.google.android.apps.plus.phone.HomeActivity"
+        name="google_plus"/>
+
+    <!-- Hangouts -->
+    <item
+        class="com.google.android.talk.SigningInActivity"
+        name="google_hangouts"/>
+
+    <!-- KWGT -->
+    <item
+        class="org.kustom.widget.picker.WidgetPicker"
+        name="___kwgt"/>
+
+    <!-- LG Backup -->
+    <item
+        class="com.lge.bnr.launcher.BNRLauncherActivity"
+        name="___lg_backup"/>
+
+    <!-- Lose It! -->
+    <item
+        class="com.fitnow.loseit.MainActivity"
+        name="lose_it"/>
+
+    <!-- Maps -->
+    <item
+        class="com.google.android.maps.MapsActivity"
+        name="maps"/>
+
+    <!-- Messaging -->
+    <item
+        class="com.android.mms.ui.ConversationList"
+        name="messaging"/>
+
+    <!-- Messenger -->
+    <item
+        class="com.facebook.orca.auth.StartScreenActivity"
+        name="facebook_messenger"/>
+
+    <!-- Music -->
+    <item
+        class="com.lge.music.MusicBrowserActivity"
+        name="music"/>
+
+    <!-- My Bluebird -->
+    <item
+        class="com.serve.platform.wrapper.tLauncher"
+        name="blue__bird"/>
+
+    <!-- Newegg -->
+    <item
+        class="com.newegg.app.activity.homestart.HomeStartActivity"
+        name="newegg"/>
+
+    <!-- Nova Launcher -->
+    <item
+        class="com.teslacoilsw.launcher.NovaShortcutHandler"
+        name="nova_launcher"/>
+
+    <!-- Phone -->
+    <item
+        class="com.android.contacts.activities.DialtactsActivity"
+        name="phone"/>
+
+    <!-- Play Games -->
+    <item
+        class="com.google.android.gms.games.ui.destination.main.MainActivity"
+        name="google_play_games"/>
+
+    <!-- Play Store -->
+    <item
+        class="com.android.vending.AssetBrowserActivity"
+        name="google_play_store"/>
+
+    <!-- QuickMemo+ -->
+    <item
+        class="com.lge.qmemoplus.ui.main.MainActivity"
+        name="quick_memos_plus"/>
+
+    <!-- Settings -->
+    <item
+        class="com.android.settings.Settings"
+        name="settings"/>
+
+    <!-- Simple -->
+    <item
+        class="com.banksimple.ui.LauncherActivity"
+        name="simple"/>
+
+    <!-- Street View -->
+    <item
+        class="com.google.android.apps.dragonfly.activities.main.MainActivity"
+        name="street_view"/>
+
+    <!-- Sunrise -->
+    <item
+        class="com.technologx.sunrise.HomeActivity"
+        name="sunrise"/>
+
+    <!-- Tasks -->
+    <item
+        class="com.android.calendar.LaunchTasksActivity"
+        name="tasks"/>
+
+    <!-- TeslaUnread -->
+    <item
+        class="com.teslacoilsw.notifier.NotifierSettings"
+        name="tesla_unread"/>
+
+    <!-- Textfree -->
+    <item
+        class="com.pinger.textfree.call.activities.TFSplash"
+        name="text_free"/>
+
+    <!-- Voice Recorder -->
+    <item
+        class="com.lge.voicerecorder.LaunchVoiceRecorder"
+        name="voice_recorder"/>
+
+    <!-- Voicemail -->
+    <item
+        class="com.coremobility.app.vnotes.CM_VnoteInbox"
+        name="voice_mail"/>
+
+    <!-- Walmart -->
+    <item
+        class="com.walmart.android.app.main.MainActivity"
+        name="walmart"/>
+
+    <!-- Weather -->
+    <item
+        class="com.lge.sizechangable.weather.activities.WeatherActivity_Default"
+        name="weather"/>
+
+    <!-- YP -->
+    <item
+        class="com.yellowpages.android.ypmobile.YPM"
+        name="yellow_pages_mobile"/>
+
+    <!-- YouTube -->
+    <item
+        class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        name="youtube"/>
+
+    <!-- Zooper Widget Pro -->
+    <item
+        class="org.zooper.zwlib.Launcher"
+        name="zooper_pro"/>
+
+    <!-- cPro Craigslist -->
+    <item
+        class="craigs.pro.library.MainScreen"
+        name="craigslist"/>
+
+    <!-- Bluetooth Notifier -->
+    <item
+        class="com.zulixsoft.android.bluetoothdetector.MainActivity"
+        name="bluetooth_notifier"/>
+
+    <!-- QR Scanner -->
+    <item
+        class="app.qrcode.MainActivity"
+        name="qr_scanner"/>
+
+    <!-- Google Settings -->
+    <item
+        class="com.google.android.gms.app.settings.GoogleSettingsActivity"
+        name="google_settings"/>
+
+    <!-- Nibblers -->
+    <item
+        class="com.rovio.fusion.App"
+        name="fruit_nibblers"/>
+
+    <!-- B612 -->
+    <item class="com.linecorp.b612.android.activity.ActivityCamera" name="b612" />
+    <!-- Phone -->
+    <item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="phone" />
+
+    <!-- FarmVille: Tropic Escape -->
+    <item
+        class="com.zynga.ZyngaUnityActivity.ZyngaUnityActivity"
+        name="farmville_tropic_escape"/>
+
+    <!-- HiShoot 2 -->
+    <item
+        class="dcsms.hishoot2.Hello"
+        name="hishoot_2"/>
+
+    <!-- KUnread -->
+    <item
+        class="org.kustom.unread.MainActivity"
+        name="___kunread"/>
+
+    <!-- KWGT Pro -->
+    <item
+        class="org.kustom.pro.MainActivity"
+        name="___kwgt_pro"/>
+
+    <!-- Kolorette -->
+    <item
+        class="com.arun.themeutil.kolorette.MainActivity"
+        name="kolorette"/>
+
+    <!-- TextNow -->
+    <item
+        class="com.enflick.android.TextNow.activities.WelcomeActivity"
+        name="text__now"/>
+
+    <!-- The Tribez -->
+    <item
+        class="com.gameinsight.tribez.TheTribezActivity"
+        name="the_tribez"/>
+
+    <!-- Toy Blast -->
+    <item
+        class="net.peakgames.mobile.android.inappbilling.unity.activities.IabUnityAndroidPlayerNativeActivity"
+        name="toy_blast"/>
+
+    <!-- U-Tation -->
+    <item
+        class="com.technologx.u_tation.HomeActivity"
+        name="u_tation"/>
+
+    <!-- Farm Heroes Super Saga -->
+    <item
+        class="com.king.eden.EdenActivity"
+        name="farm_heroes_super_saga"/>
+
+    <!-- MyGBA Emulator -->
+    <item
+        class="com.gemuvn.gba.MyInterstitialAd"
+        name="mygba_emulator"/>
+</appmap>
