@@ -1,7 +1,7 @@
 <a href='https://technologx.github.io/Android-Theming/' target='_blank'>Theming Guide</a>
 
 # appfilter.xml's <a href='https://github.com/Technologx/Android-Theming/blob/master/iconpackneededfiles/appfilter.xml' target='_blank'>View</a>
-A file that contains a long code list for android apps if you don't see what your seeking on here then visit http://activities.tundem.com/ that will give you the info you need but you also will need this app https://play.google.com/store/apps/details?id=com.mikepenz.applicationreader it will submit the your app componentinfo to the website I've listed it helps us themer's out.
+A file that contains a long code list for android apps if you don't see what your seeking on here then visit http://activities.tundem.com/ that will give you the info you need but you also will need this app https://play.google.com/store/apps/details?id=com.mikepenz.applicationreader it will submit the your app componentinfo to the website I've listed it helps us themer's out. This file is what almost all launchers use to determine which icon goes to which app so if you don't have this file and you have user's complaining that the icon pack isn't working this is why.
 <hr>
 # drawable.xml's <a href='https://github.com/Technologx/Android-Theming/blob/master/iconpackneededfiles/drawable.xml' target='_blank'>View</a>
 A file that contains a list of your icons either put into categories or alphabetical order usually a lot of dev's like to put this file into cetegories.
