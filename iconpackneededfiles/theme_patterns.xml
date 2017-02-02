@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <item drawable="@drawable/dock_1" canColor="false" />
+    <item drawable="@drawable/dock_2" canColor="false" />
+    <item drawable="@drawable/dock_3" canColor="false" />
+    <item drawable="@drawable/dock_4" canColor="false" />
+    <item drawable="@drawable/dock_5" canColor="false" />
+    <item drawable="@drawable/dock_6" canColor="false" />
+    <item drawable="@drawable/dock_7" canColor="false" />
+    <item drawable="@drawable/dock_8" canColor="false" />
+    <item drawable="@drawable/dock_9" canColor="false" />
+    <item drawable="@drawable/dock_10" canColor="false" />
+</PreferenceScreen>
